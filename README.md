@@ -1,2 +1,7 @@
 # da-ebac
-Curso de Análise de Dados
+Exercício Módulo 19
+Geraçao de gráfico em linha
+Uso das funções git (ADD,COMMMIT,PUSH)
+PANDAS
+SEABORN
+OS
